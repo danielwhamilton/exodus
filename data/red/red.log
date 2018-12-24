@@ -1,0 +1,27 @@
+[21/12/2018 16:42] ERROR owner load 73: extension does not have a setup function
+Traceback (most recent call last):
+  File "C:\Users\mbihun\Desktop\Red-DiscordBot\cogs\owner.py", line 64, in load
+    self._load_cog(module)
+  File "C:\Users\mbihun\Desktop\Red-DiscordBot\cogs\owner.py", line 947, in _load_cog
+    self.bot.load_extension(mod_obj.__name__)
+  File "lib\discord\ext\commands\bot.py", line 736, in load_extension
+    raise discord.ClientException('extension does not have a setup function')
+discord.errors.ClientException: extension does not have a setup function
+[21/12/2018 16:43] ERROR owner load 73: extension does not have a setup function
+Traceback (most recent call last):
+  File "C:\Users\mbihun\Desktop\Red-DiscordBot\cogs\owner.py", line 64, in load
+    self._load_cog(module)
+  File "C:\Users\mbihun\Desktop\Red-DiscordBot\cogs\owner.py", line 947, in _load_cog
+    self.bot.load_extension(mod_obj.__name__)
+  File "lib\discord\ext\commands\bot.py", line 736, in load_extension
+    raise discord.ClientException('extension does not have a setup function')
+discord.errors.ClientException: extension does not have a setup function
+[21/12/2018 16:45] ERROR owner load 73: extension does not have a setup function
+Traceback (most recent call last):
+  File "C:\Users\mbihun\Desktop\Red-DiscordBot\cogs\owner.py", line 64, in load
+    self._load_cog(module)
+  File "C:\Users\mbihun\Desktop\Red-DiscordBot\cogs\owner.py", line 947, in _load_cog
+    self.bot.load_extension(mod_obj.__name__)
+  File "lib\discord\ext\commands\bot.py", line 736, in load_extension
+    raise discord.ClientException('extension does not have a setup function')
+discord.errors.ClientException: extension does not have a setup function

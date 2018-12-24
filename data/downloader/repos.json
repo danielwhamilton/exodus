@@ -1,0 +1,96 @@
+{
+    "26-Cogs" : {
+        "cleverbot" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\26-Cogs\\cleverbot\\cleverbot.py",
+            "folder" : "data\\downloader\\26-Cogs\\cleverbot"
+        },
+        "insult" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\26-Cogs\\insult\\insult.py",
+            "folder" : "data\\downloader\\26-Cogs\\insult"
+        },
+        "nomassmentions" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\26-Cogs\\nomassmentions\\nomassmentions.py",
+            "folder" : "data\\downloader\\26-Cogs\\nomassmentions"
+        },
+        "penis" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\26-Cogs\\penis\\penis.py",
+            "folder" : "data\\downloader\\26-Cogs\\penis"
+        },
+        "remindme" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\26-Cogs\\remindme\\remindme.py",
+            "folder" : "data\\downloader\\26-Cogs\\remindme"
+        },
+        "rift" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\26-Cogs\\rift\\rift.py",
+            "folder" : "data\\downloader\\26-Cogs\\rift"
+        },
+        "rndstatus" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\26-Cogs\\rndstatus\\rndstatus.py",
+            "folder" : "data\\downloader\\26-Cogs\\rndstatus"
+        },
+        "stickyroles" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\26-Cogs\\stickyroles\\stickyroles.py",
+            "folder" : "data\\downloader\\26-Cogs\\stickyroles"
+        },
+        "trigger" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\26-Cogs\\trigger\\trigger.py",
+            "folder" : "data\\downloader\\26-Cogs\\trigger"
+        },
+        "url" : "https://github.com/Twentysix26/26-Cogs"
+    },
+    "Dusty-Cogs" : {
+        "autorole" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\autorole\\autorole.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\autorole"
+        },
+        "desutils" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\desutils\\desutils.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\desutils"
+        },
+        "greet" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\greet\\greet.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\greet"
+        },
+        "menu" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\menu\\menu.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\menu"
+        },
+        "moji" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\moji\\moji.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\moji"
+        },
+        "pathfinder" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\pathfinder\\pathfinder.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\pathfinder"
+        },
+        "requester" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dusty-Cogs\\requester\\requester.py",
+            "folder" : "data\\downloader\\Dusty-Cogs\\requester"
+        },
+        "url" : "https://github.com/Lunar-Dust/Dusty-Cogs"
+    },
+    "Red-Portal-Cogs" : {
+        "redportal" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\Red-Portal-Cogs\\redportal\\redportal.py",
+            "folder" : "data\\downloader\\Red-Portal-Cogs\\redportal"
+        },
+        "url" : "https://github.com/orels1/Red-Portal-Cogs"
+    }
+}

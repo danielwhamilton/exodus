@@ -1,0 +1,14 @@
+{
+    "EMAIL" : null,
+    "OWNER" : "143768496692527115",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        ";"
+    ],
+    "TOKEN" : "MzgyMjUyMzc4NDcwMjE5Nzg2.Dv503w.ZCCBMIo9-k_mte3IlipxTkzVCOA",
+    "default" : {
+        "ADMIN_ROLE" : "Exordian",
+        "MOD_ROLE" : "Junior Exordian",
+        "PREFIXES" : []
+    }
+}
