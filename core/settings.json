@@ -1,0 +1,94 @@
+{
+    "0" : {
+        "CUSTOM_GROUPS" : {
+            "CogManager" : {
+                "2938473984732" : {}
+            },
+            "ModLog" : {
+                "1354799444" : {}
+            },
+            "Bank" : {
+                "384734293238749" : {}
+            },
+            "Core" : {
+                "0" : {
+                    "CUSTOM_GROUPS" : 2
+                }
+            },
+            "Admin" : {
+                "8237492837454039" : {}
+            },
+            "Alias" : {
+                "8927348724" : {}
+            },
+            "Audio" : {
+                "2711759130" : {}
+            },
+            "CustomCommands" : {
+                "414589031223512" : {}
+            },
+            "Downloader" : {
+                "998240343" : {}
+            },
+            "Economy" : {
+                "1256844281" : {}
+            },
+            "Filter" : {
+                "4766951341" : {}
+            },
+            "Image" : {
+                "2652104208" : {}
+            },
+            "Mod" : {
+                "4961522000" : {}
+            },
+            "Permissions" : {
+                "78631113035100160" : {
+                    "COG" : 1,
+                    "COMMAND" : 1
+                }
+            },
+            "Reports" : {
+                "78631113035100160" : {
+                    "REPORT" : 2
+                }
+            },
+            "Trivia" : {
+                "3015763027" : {}
+            },
+            "Streams" : {
+                "26262626" : {}
+            },
+            "Warnings" : {
+                "5757575755" : {}
+            }
+        },
+        "GLOBAL" : {
+            "token" : "MzgyMjUyMzc4NDcwMjE5Nzg2.XQUxtg.eK4bFpxBEG4xR_D-GxxIyWAMBnU",
+            "prefix" : [
+                ":"
+            ],
+            "owner" : 143768496692527115,
+            "packages" : [
+                "admin",
+                "alias",
+                "audio",
+                "bank",
+                "cleanup",
+                "customcom",
+                "downloader",
+                "economy",
+                "filter",
+                "general",
+                "image",
+                "mod",
+                "modlog",
+                "permissions",
+                "reports",
+                "trivia",
+                "streams",
+                "warnings"
+            ]
+        }
+    }
+}
